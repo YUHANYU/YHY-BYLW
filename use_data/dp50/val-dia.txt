@@ -1,0 +1,759 @@
+altered mental status other pneumonia	male eighty eight emergency married white protestant quaker
+intracranial hemorrhage intracranial vascular procedures w pdx hemorrhage with major comorbid conditions	female forty five emergency married asian not specified
+arterial insufficency lle other vascular procedures with complications cormorbidities	female eighty emergency divorced white not specified
+chest pain telemetry respiratory malignancy	female seventy four emergency married white catholic
+nausea vomiting renal failure major esophageal disorders with major comorbid conditions	male sixty one emergency single black african american not specified
+wound infection operating room procedure for infectious parasitic diseases	female three hundred emergency single white not specified
+pneumonia tracheostomy except for face mouth neck diagnoses	male fifty eight emergency married white christian scientist
+mitral valve insufficiency mitral valve replacement maze tricuspid valve replacement cardiac valve procedures w o cardiac catheterization	female eighty three elective married white catholic
+stroke intracranial hemorrhage stroke w infarction	female seventy nine emergency married unknown not specified jewish
+blunt trauma limb reattachment hip femur proc for multiple significant trauma	male seventy eight emergency married white catholic
+coronary artery disease cardiac catherization coronary bypass with ptca	male sixty six emergency married white unobtainable
+upper gi bleed other digestive system diagnoses	male fifty three emergency married white not specified
+pneumonia respiratory system diagnosis w ventilator support hours	male forty seven emergency married white not specified
+acute myocardial infarction cath coronary bypass with ptca	male fifty one emergency married white catholic
+transient ischemic attack cva precerebral occulusion w infarct	female fifty emergency married white not specified
+gastrointestinal bleed other digestive system operating room procedures with complications comorbidities	male forty four emergency single white catholic
+pneumonia respiratory system diagnosis w ventilator support hours	female fifty six emergency married asian not specified
+chest pain coronary bypass without cardiac catheter	male sixty nine emergency widowed white not specified
+altered mental status nontraumatic stupor coma	male seventy six emergency single black african american episcopalian
+abnormal head ct other o r procedures for injuries with noncomorbid conditions and without comorbid conditions or major cc	male twenty four emergency single white not specified
+hypotension renal failure	male seventy eight emergency married white catholic
+unresponsive nutritional miscellaneous metabolic disorders age with complications comorbidities	female thirty four emergency married white catholic
+sepsis tracheostomy w long term mechanical ventilation w o extensive procedure	male three hundred urgent married white greek orthodox
+asthma chronic obst pulm disease pulmonary edema respiratory failure	female eighty two emergency widowed white catholic
+avr mvr cardiac valve other major cardiothoracic proc without cardiac catheter	male fifty seven emergency married asian not specified
+congestive heart failure cardiac catheterization w circ disord exc ischemic heart disease	male three hundred emergency married white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male seventy seven emergency married white not specified
+chest pain coronary artery disease left heart cath coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty eight emergency married white protestant quaker
+left leg celluliis sepsis heart failure shock with major comorbid conditions	male sixty seven emergency married white protestant quaker
+non q wave myocardial infarction coronary artery disease cath percutaneous cardiovascular procedures w ami	male seventy three emergency married white catholic
+lower gi bleed gastrointestinal hemorrhage with complications comorbidities	male seventy four emergency married white catholic
+stroke tia intracranial hemorrhage or cerebral infarction with noncomorbid conditions and without comorbid conditions or major cc	male eighty emergency married white catholic
+coronary artery disease coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	female seventy eight emergency widowed white unobtainable
+intraparenchymal hemorrhage tracheostomy w long term mechanical ventilation w o extensive procedure	male eighty three emergency married white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male fifty seven emergency married white catholic
+gastrointestinal bleed other musculoskeletal system connective tissue diagnoses	male sixty three emergency married white jewish
+subdural hemorrhage head trauma w coma hr or hemorrhage	male forty nine emergency single white not specified
+unstable angina telemetry cath coronary bypass with cardiac catheter	male seventy five emergency married white catholic
+upper gastrointestinal bleed peptic ulcer gastritis	male fifty six emergency single white unobtainable
+hemoptysis extensive procedure unrelated to principal diagnosis	female forty three emergency single white catholic
+stroke telemetry transient ischemic attack acute ischemic stroke w use of thrombolytic agent with major comorbid conditions	female three hundred emergency widowed white russian not specified
+gastrointestinal bleed other unspecified gastrointestinal hemorrhage	female sixty three emergency married white catholic
+carotid artery stenosis carotid stent extracranial vascular procedures	male seventy six elective widowed white catholic
+brain abscess cranio w major dev impl acute complex cns pdx with major comorbid conditions or chemo implant	female seventy two emergency married white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male sixty one elective married unknown not specified other
+lower gi bleed g i hemorrhage with comorbid conditions and without major comorbid conditions	male eighty four urgent widowed white catholic
+leukemia sepsis other circulatory system diagnoses with complications comorbidities	male forty five emergency married white not specified
+foreign body in esophagus other digestive system diagnoses	female fifty emergency divorced white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty seven emergency married white protestant quaker
+pneumonia septicemia or severe sepsis w mv hours	female seventy one emergency single white jewish
+coronary artery disease exertional angina cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male seventy emergency married patient declined to answer not specified
+upper gi bleed septicemia or severe sepsis w mv hours	female seventy two emergency divorced white catholic
+chest pain cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male fifty four emergency divorced white catholic
+aortic stenosis avr cabg cardiac valve procedures w cardiac catheterization	male seventy four elective married white not specified
+pneumonia interstitial lung disease	male fifty two emergency married hispanic or latino catholic
+sepsis other circulatory system diagnoses with major comorbid conditions	male fifty six emergency married white catholic
+coronary artery disease heart cath coronary bypass with ptca	male seventy two urgent married unknown not specified protestant quaker
+hypotension other kidney urinary tract diagnoses age with complications comorbidities	male sixty five emergency married white protestant quaker
+new brain mass craniotomy endovascular intracranial procedures with major comorbid conditions	male seventy two emergency married white protestant quaker
+sepsis malfunction reaction comp of cardiac or vasc device or proc	male fifty one emergency married black african american protestant quaker
+congestive heart failure respiratory system diagnosis with ventilator support	female three hundred and two emergency widowed white other
+left ventricular aneurysm coronary artery disease coronary bypass without cardiac catheter	male thirty eight emergency married white not specified
+atherosclerosis with ulcer peripheral other vascular disorders	male seventy two emergency widowed black african american protestant quaker
+anterior communicating aneurysm sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc	female fifty eight elective married hispanic or latino catholic
+upper gi bleed peptic ulcer gastritis	male seventy two emergency married caribbean island not specified
+lower gi bleed other digestive system diagnoses	male forty eight emergency married white protestant quaker
+angina ett cath coronary bypass with cardiac catheter	male sixty seven emergency married unknown not specified other
+acute coronary syndrome acute myocardial infarction	male sixty eight emergency single white catholic
+upper gi bleed other digestive system diagnoses	male forty nine emergency married asian chinese not specified
+ ett cath coronary bypass with ptca	female forty nine emergency married white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male fifty four elective married unknown not specified other
+alcoholic hepatitis acute renal failure cirrhosis alcoholic hepatitis	male forty six emergency single other unobtainable
+hyponatremia major gastrointestinal peritoneal infections	male fifty two emergency married white catholic
+suicide attempt glass in gi tract other digestive system diagnoses	female twenty eight emergency single white protestant quaker
+nonhealing ulcer left lower extremity other vascular procedures	male eighty two elective married white catholic
+chf r o mi arf respiratory system diagnosis with ventilator support	male eighty three emergency married white catholic
+subarachnoid hemorrhage intracranial hemorrhage or cerebral infarction	female sixty one emergency married white episcopalian
+pneumonia septicemia disseminated infections	female seventy nine emergency widowed white catholic
+severe aortic stenosis congestive heart failure cath sda cardiac valve procedures w cardiac catheterization	male sixty seven elective married white catholic
+acute renal failure hiv with major related condition	female seventy two emergency widowed black african american protestant quaker
+intracranial hemorrhage tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses	female three hundred emergency married white other
+left main disease vessel disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male seventy nine urgent married white catholic
+liver tx liver transplant with comorbid conditions or non comorbid conditions and without major cc	female fifty three emergency married hispanic latino puerto rican not specified
+fever other respiratory system operating room procedures with complications comorbidities	male seventy six emergency married white catholic
+subarachnoid hemorrhage intracranial hemorrhage	male fifty seven emergency single other not specified
+fever septicemia disseminated infections	female thirty nine emergency married white not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy four elective widowed white catholic
+increasing shortness of breath chronic obstructive pulmonary disease	male forty seven emergency married white protestant quaker
+myocardial infarction perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents	male eighty three emergency married white jewish
+right upper lobe pneumonia septicemia w mechanical ventilator hours age 	male sixty nine emergency single white catholic
+respiratory failure respiratory system diagnosis w ventilator support hours	female eighty six emergency married white catholic
+diarrhea septicemia or severe sepsis w o mv hours with major comorbid conditions	male sixty one emergency married white catholic
+atrial fibrillation lymphoma non acute leukemia with major comorbid conditions	female seventy three emergency divorced white jewish
+conjestive heart failure heart failure shock with major comorbid conditions	female sixty two emergency married white jewish
+respiratory failure respiratory system diagnosis with ventilator support	male seventy emergency married white catholic
+pancreatitis pseudocyst septicemia disseminated infections	male forty two emergency single white greek orthodox
+congestive heart failure heart failure shock	female three hundred emergency married white catholic
+post procedure bleed gastrointestinal bleed s p ercp respiratory system diagnosis w ventilator support hours	female eighty two emergency single hispanic or latino catholic
+anemia red blood cell disorders with major comorbid conditions	male fifty two emergency married white not specified
+hypotension uncleaer etiology septicemia disseminated infections	female fifty five emergency single white unobtainable
+stroke telemetry transient ischemic attack cva precerebral occulusion w infarct	male forty six emergency single white catholic
+leuko encephalopathy non bacterial infections of nervous system exc viral meningitis	female fifty seven emergency married asian catholic
+icd lead complication ice lead extraction w icd reimplantation sda cardiac defibrillator implant w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy eight elective married white catholic
+pericardial tamponade cardiac catheterization w circ disord exc ischemic heart disease	male fifty two emergency married white not specified
+seizure acute adjustment reaction psychosocial dysfunction	male fifty two emergency single white catholic
+sepsis other circulatory system diagnoses	male sixty emergency divorced black african american protestant quaker
+aortic stenosis mitral valve regurgitation ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure	male sixty nine elective single white unobtainable
+hypoglycemia renal failure	male seventy emergency married black african american not specified
+abdominal pain disorders of the gallbladder biliary tract	male eighty seven emergency widowed unable to obtain catholic
+bowel perforation infectious parasitic diseases including hiv w o r procedure	male eighty one emergency married white protestant quaker
+mr mitral valve replacement minimally invasive approach sda cardiac valve other major cardiothoracic proc without cardiac catheter	female forty eight elective married white not specified
+pneumonia respiratory failure septicemia age 	female three hundred and two emergency widowed white unobtainable
+hip fracture fractures of femur	female seventy eight emergency widowed white catholic
+intracranial hemorrhage intracranial hemorrhage	female thirty three emergency married white not specified
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	female sixty one emergency single white catholic
+bile duct obstruction trach w mv hrs or pdx exc face mouth neck w o maj o r 	male seventy nine elective married asian not specified
+lower gi bleed other unspecified gastrointestinal hemorrhage	male sixty two emergency married white jewish
+stroke telemetry tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure	male sixty eight emergency married white jewish
+aortic insufficiency bental procedure sda cardiac valve oth maj cardiothoracic proc w o card cath with noncomorbid conditions and without comorbid conditions or major cc	male forty two elective married white catholic
+anasarca cirrhosis alcoholic hepatitis	male seventy eight emergency widowed hispanic or latino catholic
+post transplantation stricture bronchoscopy rigid with laser respiratory system diagnosis with ventilator support	female sixteen emergency single white not specified
+end stage liver disease esophagitis gastroent misc digest disorders with major comorbid conditions	female thirty seven emergency single white not specified
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	male sixty seven emergency single white not specified
+gastrointestinal bleed diabetic ketoacidosis s p cardiac arrest major esophageal disorders	male sixty four emergency married unknown not specified not specified
+mitral stenosis mitral valve repair replace with concomitant maze procedure sda cardiac valve procedures w o cardiac catheterization	male sixty six elective married white jewish
+stroke intracranial hemorrhage or cerebral infarction	male seventy seven emergency married white catholic
+bacterial meningitis nervous system infection except viral meningitis	female sixty two emergency single white catholic
+pneumonia urinary tract infection dehydration simple pneumonia pleurisy age with complications comorbidities	female three hundred emergency widowed white jewish
+altered mental status septicemia disseminated infections	female eighty nine emergency single white not specified
+fever hypotension cranial peripheral nerve disorders with major comorbid conditions	female forty five emergency divorced black haitian protestant quaker
+chest pain cardiac defibrillator heart assist anomaly	male seventy eight emergency married white catholic
+congestive heart failure cardiomyopathy cath coronary bypass with cardiac catheterization with mcv diagnosis	male forty nine emergency single white not specified
+stemi percutaneous cardiovascular procedures w ami	male seventy eight urgent married unknown not specified unobtainable
+non st segment elevation myocardial infarction percutaneous cardiovascular procedures w ami	female seventy one emergency married white catholic
+upper gi bleed major esophageal disorders	male fifty emergency single white not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male seventy two elective married patient declined to answer protestant quaker
+abdominal pain renal failure with major comorbid conditions	male thirty nine emergency single black african american catholic
+chest pain percutaneous cardiovascular procedures w ami	male fifty four emergency married multi race ethnicity catholic
+abdominal pain major small large bowel procedures	male fifty eight emergency married white catholic
+recurrent angina cath coronary bypass with cardiac catheter	male sixty eight emergency married white jewish
+intracranial hemorrhage traumatic stupor coma coma hr with major comorbid conditions	male three hundred emergency widowed white catholic
+abdominal pain septicemia disseminated infections	female three hundred and two emergency widowed white catholic
+altered mental status nontraumatic stupor coma	female fifty seven emergency widowed black african american protestant quaker
+lower gi bleed other disorders of the liver	male sixty five emergency separated black african american protestant quaker
+chest pain coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty nine emergency married white catholic
+liver failure cirrhosis liver transplant	male sixty four emergency married white catholic
+chest pain cath circulatory disorders with acute myocardial infarction without major complication discharged alive	male eighty two emergency widowed white other
+acute coronary syndrome coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy seven emergency married white jewish
+aortic valve disorder resection of aortic mass vs aortic valve replacment cardiac defibrillator heart assist anomaly	male fifty two elective married white not specified
+unstable angina major cardiovascular procedures with complications comorbidities	male sixty five emergency married white catholic
+dyspnea on excertion cardiac valve procedures w o cardiac catheterization	female seventy nine emergency single white unobtainable
+pneumonia respiratory system diagnosis with ventilator support	female fifty five emergency married white unobtainable
+hyperglycemia telemetry other vascular procedures with complications cormorbidities	female forty eight emergency single white christian scientist
+drug refractory atrial fibrillation pulmonary vein isolation remote west sda percutaneous cardiovascular procedures w o ami	male seventy two elective married white jewish
+myelitis nervous system infection except viral meningitis	male twenty one emergency single white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male seventy three elective divorced white catholic
+head mass craniotomy except for trauma	female fifty three emergency single white protestant quaker
+sepsis septicemia disseminated infections	female seventy four emergency single hispanic or latino unobtainable
+aortic stenosis aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	male three hundred elective single white christian scientist
+fever fever	male fifty three emergency separated white catholic
+aortic steonsis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male eighty two elective married white not specified
+s p motor vehicle accident other multiple significant trauma	female fifty two emergency married white catholic
+pneumonia septicemia or severe sepsis w mv hours	male sixty seven emergency single white catholic
+coronary artery disease cardiac valve procedures w o cardiac catheterization	male seventy seven emergency married white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	female eighty emergency widowed white not specified
+syncope chest pain extracranial vascular procedures	female eighty one emergency widowed black african american protestant quaker
+hypotension complications of treatment with major comorbid conditions	female three hundred emergency widowed white jewish
+abdominal pain g i obstruction with major comorbid conditions	female fifty five emergency married white not specified
+congestive heart failure tracheostomy w long term mechanical ventilation w o extensive procedure	female eighty four emergency single black african american protestant quaker
+acute subdural hematoma traumatic stupor coma coma hr with major comorbid conditions	female fifty six emergency single white catholic
+intracranial hemorrhage craniotomy for trauma	male three hundred emergency married white jewish
+brain tumor sda craniotomy age except for trauma	male seventy one elective married white catholic
+sepsis septicemia disseminated infections	female sixty five emergency single white catholic
+bradycardia pneumonia respiratory system diagnosis with ventilator support	male fifty emergency married white muslim
+chest pain renal failure with major comorbid conditions	male forty five emergency separated white catholic
+organophosphate overdose poisoning toxic effects of drugs age with complications comorbidities	female thirty seven emergency single other not specified
+angina chest pain cardiac cath coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male fifty six emergency single white protestant quaker
+stridor other respiratory diagnosis except signs symptoms minor diagnoses	female eighty three emergency married white greek orthodox
+diabetic ketoacidosis diabetes age 	male twenty three emergency single white catholic
+urinary tract infection atrial fibrillation acute subacute endocarditis	female three hundred emergency divorced white catholic
+stroke telemetry transient ischemic attack acute ischemic stroke w use of thrombolytic agent with major comorbid conditions	female eighty emergency married white unobtainable
+intracranial bleed trach w mv hrs or pdx exc face mouth neck w o maj o r 	male seventy emergency married white protestant quaker
+pneumonia simple pneumonia pleurisy with major comorbid conditions	female seventy one emergency divorced white not specified
+pneumonia respiratory system diagnosis w ventilator support hours	male three hundred emergency married white not specified
+ vessel disease coronary bypass without cardiac catheter	male seventy six emergency married white catholic
+gi bleed major respiratory infections inflammations	male eighty two emergency divorced white jewish
+chest pain percutaneous cardiovascular procedures w ami	female sixty three emergency married white jewish
+renal failure pericadial effusion renal failure	female twenty one emergency single white catholic
+upper gi bleed gastrointestinal hemorrhage with complications comorbidities	female seventy two emergency single unknown not specified not specified
+inferior myocardial infarction coronary artery disease cath ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure	male seventy one emergency married white catholic
+cholangitis septicemia disseminated infections	female fifty nine emergency married unknown not specified unobtainable
+pneumonia pulmonary edema respiratory failure	male seventy five emergency married white greek orthodox
+pneumonia seizure fall respiratory system diagnosis w ventilator support hours	male sixty four emergency single patient declined to answer not specified
+hypotension cardiac arrhythmia conduction disorders	female fifty four emergency single black african american protestant quaker
+sepsis post operative post traumatic other device infections	female fifty three emergency married asian korean not specified
+subdural hematoma telemetry craniotomy age with complications comorbidities	male seventy six emergency married white not specified
+coronary artery disease percutaneous cardiovascular procedures w ami	female eighty seven emergency widowed white episcopalian
+congestive heart failure heart failure	female sixty nine emergency married black african american protestant quaker
+congestive heart failure telemetry transcatheter aortic valve implant tavi with pump stand by corevalve  cardiac valve procedures w cardiac catheterization	female sixty six elective married white catholic
+pericardial effusion circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses	male sixty emergency single white catholic
+upper gi bleed other unspecified gastrointestinal hemorrhage	male fifty six emergency single white not specified
+aortic stenosis cath cardiac valve other major cardiothoracic procedures with cardiac catheter	female seventy one emergency married white unobtainable
+acute renal insufficiency hypoxia other operating room procedures for injuries with complications comorbidities	female fifty three emergency single unknown not specified protestant quaker
+acute coronary syndrome coronary bypass w cardiac cath or percutaneous cardiac procedure	male forty nine emergency single white catholic
+sepsis septicemia age 	female three hundred emergency widowed white jewish
+stridor pulmonary edema respiratory failure	male eighty five emergency married white episcopalian
+hypoxia viral meningitis	male three hundred emergency married white jewish
+vfib percutaneous cardiovascular procedures w ami	male fifty three urgent married white catholic
+hypertensive emergency renal failure with comorbid conditions and without major comorbid conditions	male eighty two emergency married white jewish
+aortic stenosis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	female sixty eight elective married white protestant quaker
+overdose telemetry poisoning toxic effects of drugs with comorbid conditions or non comorbid conditions and without major cc	male twenty three emergency single white not specified
+chest pain perc cardiovasc proc w drug eluting stent with major comorbid conditions or vessels stents	male three hundred emergency widowed white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty nine emergency married white catholic
+perforated gastric ulcer trach w mv hrs or pdx exc face mouth neck w o maj o r 	female forty five emergency married white catholic
+pneumonia septicemia disseminated infections	male eighty five emergency married white catholic
+s p cardiac arrest percutaneous cardiovascular procedures w ami	male seventy eight emergency married white russian other
+brain mass craniotomy age with complications comorbidities	female seventy seven emergency divorced white unobtainable
+mr mitral valve replacement cardiac valve other major cardiothoracic proc without cardiac catheter	male eighty two elective married white catholic
+intracranial hemorrhage intracranial hemorrhage	female sixty five emergency married hispanic or latino catholic
+pneumonia other pneumonia	male sixty emergency married white other european catholic
+stroke tia cva precerebral occulusion w infarct	female seventy two emergency widowed white not specified
+hypoglycemia diabetes age 	female eighty four emergency married white other
+lower gastrointestinal bleed g i hemorrhage with comorbid conditions and without major comorbid conditions	male sixty four emergency divorced white not specified
+subdural hematoma head trauma w coma hr or hemorrhage	female three hundred emergency married white episcopalian
+coronary artery disease coronary artery bypass graft coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy six elective married white catholic
+pneumonia cardiac catheterization w circ disord exc ischemic heart disease	male sixty three emergency single white jewish
+tca overdose poisoning toxic effects of drugs with major comorbid conditions	female forty five emergency married unknown not specified unobtainable
+chest pain cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure	female seventy seven emergency married white protestant quaker
+intracranial hemorrhage intracranial hemorrhage or cerebral infarction	female seventy three emergency married white unobtainable
+foreign body in esophagus other digestive system diagnoses age with complications comorbidities	female eighty emergency married white episcopalian
+stemi percutaneous cardiovascular procedures w ami	female fifty eight emergency divorced white catholic
+chf aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	female sixty three elective widowed white catholic
+aortic valve disease cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male fifty three emergency married white protestant quaker
+vfib arrest cardiac defibrillator heart assist anomaly	male sixty one emergency married asian other
+bowel obstruction major small large bowel procedures	female seventy eight emergency married black african american protestant quaker
+stroke telemetry intracranial hemorrhage	female fifty emergency married black african american protestant quaker
+mitral stenosis mvr coronary artery bypass graft cardiac valve procedures w cardiac catheterization	male sixty six elective married patient declined to answer not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male eighty nine elective widowed unknown not specified catholic
+ai and mr aortic and mitral valve replacement aortic valve replacement ascending re do stenotomy sda cardiac valve other major cardiothoracic proc without cardiac catheter	male twenty five elective single white not specified
+upper gi bleed other digestive system diagnoses	male eighty two emergency married white jewish
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	female eighty two elective married unknown not specified catholic
+pneumonia telemetry respiratory infections inflammations age with complications comorbidities	female three hundred emergency single white jewish
+hemoptysis extensive procedure unrelated to principal diagnosis	female thirty eight emergency married black african american protestant quaker
+pna thyroid storm seizure	female twenty eight emergency single white not specified
+fever hiv w or w o other related condition	male forty eight emergency single white not specified
+acute renal failure pulmonary edema respiratory failure	female fifty four emergency single hispanic latino puerto rican catholic
+lower gastrointestinal bleed g i hemorrhage with comorbid conditions and without major comorbid conditions	female sixty nine emergency married white protestant quaker
+esophageal obstruction other digestive system diagnoses age without complications comorbidities	male forty four emergency married white catholic
+pericardial effusion coronary bypass w cardiac cath or percutaneous cardiac procedure	male sixty six emergency married white catholic
+stemi cardiac cath percutaneous cardiovascular procedures w ami	female eighty five emergency single unable to obtain catholic
+intracranial mass craniotomy except for trauma	male fifty six emergency married white catholic
+non st segment elevation myocardial infarction coronary artery disease cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male sixty three emergency married white catholic
+lower gastrointestinal bleed septicemia disseminated infections	male seventy nine emergency married white not specified
+altered mental status brain contusion laceration compliated skull fx coma hr or no coma	male eighty one emergency married white catholic
+myocardial infarction cath circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses	female eighty four emergency married white protestant quaker
+stroke craniotomy age except for trauma	male fifty five emergency married white jewish
+coronary artery disease exercional dyspnea cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male eighty four emergency married white unobtainable
+st elevated myocardial infarction perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents	male thirty nine emergency single black african american catholic
+s p fall telemetry trach w mv hrs or pdx exc face mouth neck w o maj o r 	female eighty four emergency married white jewish
+cardiac arrest respiratory system diagnosis w ventilator support hours	female fifty three emergency single black african american catholic
+seziure intracranial hemorrhage	female sixty seven emergency single black african american protestant quaker
+leukemia other pneumonia	male sixty two emergency married hispanic or latino  th day adventist
+sepsis other pneumonia	male eighty seven emergency married white not specified
+fever hiv with major related condition	male forty one emergency single white not specified
+coronary artery disease cath coronary bypass with cardiac catheter	male sixty six emergency married unknown not specified unobtainable
+s p liver tx elevated lfts disorders of liver except malignancy cirrhosis alcoholic hepatitis with complications comorbidities	female forty two emergency married white jewish
+aortic stenosis coronary artery disease coronary artery bypass graft aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	female seventy eight elective widowed white catholic
+brain mass craniotomy except for trauma	male seventy seven emergency widowed white catholic
+diabetic ketoacidosis diabetes with major comorbid conditions	male sixty nine emergency single white not specified
+non st segment elevation myocardial infarction acute myocardial infarction discharged alive with major comorbid conditions	male seventy two emergency widowed white catholic
+chf a fib heart failure shock	male sixty five emergency single unknown not specified unobtainable
+aortic dissection cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions	male thirty seven emergency married white catholic
+leaking triple a peripheral vascular disorders with complications comorbidities	male seventy emergency married white catholic
+altered mental status changes methicillin resistant staph aureus renal failure	male fifty seven emergency married black african american protestant quaker
+liver failure liver transplant	male sixty three emergency married white not specified
+aortic stenisis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male seventy seven elective married white protestant quaker
+colitis infectious parasitic diseases including hiv w o r procedure	female fifty three emergency single white not specified
+lower gi bleed diverticulitis diverticulosis	female sixty nine emergency widowed white catholic
+hypokalemia hepatitis cirrhosis alcoholic hepatitis with comorbid conditions and without major comorbid conditions	female twenty nine emergency single white not specified
+left occipital tumor sda craniotomy endovascular intracranial procedures with comorbid conditions and without major comorbid conditions	male forty six elective married white catholic
+occluded av graft other vascular procedures with complications cormorbidities	female fifty three emergency married black african american protestant quaker
+coronary artery disease coronary bypass without cardiac catheter	male sixty emergency married white catholic
+cough fever malfunction reaction complic of genitourinary device or proc	male fifty seven emergency married white greek orthodox
+carotid stenosi sda extracranial vascular procedures	female forty nine elective married white catholic
+cerebral vascular accident intracranial hemorrhage stroke w infarction	male seventy five emergency married black african american unobtainable
+pneumonia septicemia disseminated infections	male sixty seven emergency divorced black african american protestant quaker
+unstable angina telemetry cath coronary bypass with cardiac catheter	female eighty seven emergency married white jewish
+cord injury tracheostomy w long term mechanical ventilation w extensive procedure	male forty eight emergency married white catholic
+ ett cath coronary bypass with cardiac catheter	male sixty two emergency divorced white catholic
+s p fall spine fx spinal disorders injuries	male forty three emergency single white not specified
+foreign body other digestive system diagnoses	female forty six emergency married black african american other
+retroperitoneal mass major cardiovasc procedures with major comorbid conditions	female fifty four emergency married white catholic
+subarachnoid hemorrhage intracranial hemorrhage or cerebral infarction with noncomorbid conditions and without comorbid conditions or major cc	male fifty two emergency divorced black african american catholic
+aortic stenosis transcatheter aortic valve implant tavi with pump stand by corevalve  cardiac valve oth maj cardiothoracic proc w card cath with major comorbid conditions	female eighty seven emergency married white protestant quaker
+subarachnoid hemorrhage intracranial hemorrhage	female sixty eight emergency single hispanic latino guatemalan catholic
+bradycardia poisoning toxic effects of drugs with major comorbid conditions	female eighty four emergency married white catholic
+abdominal pain tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses	female seventy six emergency married white catholic
+worsening angina coronary artery disease left heart catheterization moderately extensive procedure unrelated to principal diagnosis	male eighty six emergency married white other
+sepsis ugib septicemia or severe sepsis w mv hours	female forty two emergency separated white not specified
+failure to thrive peptic ulcer gastritis	female eighty five emergency widowed white catholic
+hemoptysis extensive procedure unrelated to principal diagnosis	female sixty nine emergency divorced white eastern european catholic
+hypotension other circulatory system diagnoses	male fifty four emergency divorced white catholic
+brain bleed intracranial hemorrhage	male fifty three emergency single white catholic
+severe mr mitral valve replacement repair atrial septal defect ventricular septal defect tricuspid valve repair replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	female seventy four elective married white not specified
+vtac percutaneous cardiovascular procedures w o ami	male seventy three emergency divorced white catholic
+pneumonia respiratory infections inflammations with noncomorbid conditions and without comorbid conditions or major cc	male seventy four emergency married white unitarian universalist
+sepsis septicemia disseminated infections	female eighteen emergency single white catholic
+sepsis septicemia or severe sepsis w o mv hours with major comorbid conditions	male eighty five emergency married white unobtainable
+nausa vomiting cardiac arrhythmia conduction disorders	male sixty seven emergency divorced white jewish
+ ett cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male sixty three emergency married white catholic
+sepsis septicemia age 	female seventy eight emergency widowed white catholic
+chest pait ett cath coronary bypass with cardiac catheter	male sixty elective married white jewish
+acute subdural hematoma craniotomy endovascular intracranial procedures with major comorbid conditions	male eighty seven emergency single white not specified
+non st segment elevation myocardial infarction coronary artery disease cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male fifty one emergency married white catholic
+chemotherapy major hematol immun diag exc sickle cell crisis coagul with major comorbid conditions	female twenty nine emergency single white brazilian not specified
+confusion disorders of liver except malig cirr alc hepa with major comorbid conditions	male seventy six emergency married white jewish
+abdominal pain cardiac catheterization w circ disord exc ischemic heart disease	male eighty two emergency married other not specified
+chest pain cath coronary bypass with cardiac catheter	male seventy eight emergency widowed unknown not specified unobtainable
+subdural hematoma sda craniotomy age with complications comorbidities	male eighty elective married white unobtainable
+coronary artery disease percutaneous cardiovascular procedures w ami	female sixty six emergency divorced white catholic
+stroke intracranial hemorrhage stroke w infarction	female seventy emergency married white protestant quaker
+congestive heart failure right heart cath cardiac catheterization w circ disord exc ischemic heart disease	male fifty five emergency single black african american protestant quaker
+coronary artery disease off pump coronary artery bypass endoscopic left chest sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male fifty seven elective married unable to obtain jewish
+hypernatremia trach w mv hrs or pdx exc face mouth neck w o maj o r 	female three hundred and three emergency single asian not specified
+chest pain rule out mi circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses	female eighty four emergency widowed white jewish
+sepsis respiratory system diagnosis with ventilator support	female seventy nine emergency single white jewish
+severe headache r o meningitis r o sah  intracranial vascular procedures w pdx hemorrhage with comorbid conditions and without major comorbid conditions	male fifty two emergency married black african american catholic
+aortic stenosis aortic valve replacement sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions	female seventy seven elective divorced white catholic
+mital valve prolapse mitral valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	female sixty elective married white protestant quaker
+pneumonia septicemia disseminated infections	male fifty two emergency married white not specified
+non st segment myocardial infarction acute myocardial infarction	female sixty three emergency married other protestant quaker
+hypotension septicemia or severe sepsis w o mv hours with major comorbid conditions	female eighty four emergency widowed white catholic
+shortness of breath respiratory system diagnosis with ventilator support hrs	male seventy nine emergency married white jewish
+gastrointestinal bleed other circulatory system diagnoses with complications comorbidities	male fifty urgent single white catholic
+acute renal failure septicemia w mechanical ventilator w hours age 	female sixty six emergency divorced white not specified
+chest pain cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male seventy four emergency married unknown not specified other
+acute renal failure vomiting diarrhea telemetry renal failure	female seventy four emergency widowed hispanic or latino protestant quaker
+head bleed telemetry intracranial hemorrhage	male eighty six emergency married white not specified
+altered mental status respiratory infections inflammations age with complications comorbidities	male sixty four emergency single black african american protestant quaker
+fx to rt hip shoulder r o mi hip femur procedures except major joint age with complications comorbidities	female three hundred emergency widowed white catholic
+pneumothorax facial fx tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure	female seventy six emergency widowed patient declined to answer not specified
+subdural hemorrhage change in mental status intracranial hemorrhage	female seventy one emergency widowed black african american protestant quaker
+angina non sustained ventricular tachycardia ascites cardiac cath cardiac catheterization w circ disord exc ischemic heart disease	male seventy one emergency married unable to obtain unobtainable
+acute myocardial infarction major cardiovascular procedures with complications comorbidities	male seventy eight urgent married other not specified
+pneumonia tracheostomy w long term mechanical ventilation w o extensive procedure	male fifty six emergency single white protestant quaker
+tracheobronchial malacia other respiratory diagnosis except signs symptoms minor diagnoses	male sixty emergency single unable to obtain catholic
+pneumonia respiratory failure tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses	female seventy three emergency widowed unknown not specified muslim
+pneumonia other pneumonia	male seventy five emergency married asian chinese other
+gastrointestinal bleed g i hemorrhage with major comorbid conditions	male eighty seven emergency widowed white catholic
+altered mental status disorders of liver except malig cirr alc hepa with major comorbid conditions	male sixty three emergency single white protestant quaker
+stroke telemetry neurological eye disorders	female sixty nine emergency married white catholic
+subdural bleed craniotomy for trauma	female eighty seven emergency married unable to obtain unobtainable
+altered mental status other disorders of nervous system with major comorbid conditions	male fifty eight emergency single white other
+coronary artery disease coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy emergency married white catholic
+chronic obstructive pulmonary disease cholangitis septicemia or severe sepsis w o mv hours with major comorbid conditions	female seventy five emergency widowed white catholic
+non st segment elevation myocardial infarction percutaneous cardiovascular procedures w ami	male sixty five emergency single hispanic or latino other
+left lower extremity gangrene other vascular procedures	female eighty six elective widowed white unobtainable
+pancreatitis extensive operating room procedure unrelated to principal diagnosis	female eighty five emergency single white not specified
+newborn normal newborn	male zero newborn single asian unobtainable
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male sixty six elective married white jewish
+coronary artery disease coronary bypass with cardiac catheterization without mcv diagnosis	male sixty three emergency single white protestant quaker
+st elevated myocardial infarction post op post trauma other device infections w o r procedure	male seventy one emergency married white catholic
+upper gi bleed peptic ulcer gastritis	female fifty seven emergency married white catholic
+altered mental status heart failure	male eighty three emergency married white jewish
+myocardial infarction major cardiovascular procedures with complications comorbidities	male fifty six emergency married black african american protestant quaker
+chest pain acute myocardial infarction	male sixty five emergency married white unobtainable
+vf arrest cardiac catheterization w circ disord exc ischemic heart disease	male forty eight emergency married unable to obtain catholic
+aortic stenosis aortic valve ascending aorta replacement redo sternotomy sda cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions	female eighty elective divorced white jewish
+sepsis respiratory system diagnosis w ventilator support hours	male eighty emergency married white not specified
+acute coronary syndrome coronary bypass with cardiac catheter	male sixty emergency married white unobtainable
+hyponatremia lymphoma non acute leukemia with major comorbid conditions	female seventy nine emergency widowed white catholic
+unstable angina cardiac catheterization coronary bypass w cardiac cath or percutaneous cardiac procedure	male seventy six emergency single white catholic
+non healing ulcer other vascular procedures	female three hundred emergency widowed patient declined to answer not specified
+endocarditis cardiac valve procedures w o cardiac catheterization	female thirty emergency single white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty six elective married white jewish
+dyspnea cardiac arrhythmia conduction disorders	male fifty seven emergency married white catholic
+gastrointestinal bleed extensive operating room procedure unrelated to principal diagnosis	female eighty one emergency widowed white catholic
+afib w rvr anemia pneumonia cardiac arrhythmia conduction disorders	female sixty four emergency married white catholic
+sepsis s p arrest post operative post traumatic other device infections	male seventy three emergency married white catholic
+altered mental status hiv w multiple major hiv related conditions	male forty nine emergency single white not specified
+subdural hematoma craniotomy for trauma	male fifty five emergency married white unobtainable
+congestive heart failure cardiac catheterization w circ disord exc ischemic heart disease	male fifty four emergency married other catholic
+aortic valve insufficency aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	female seventy three elective married white jewish
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	male seventy eight emergency married white episcopalian
+pneumonia other pneumonia	female fifty six emergency married white catholic
+lower extremity weakness bacterial tuberculous infections of nervous system with comorbid conditions and without major comorbid conditions	female thirty three emergency single white catholic
+gastrointestinal bleed other hepatobiliary or pancreas operating room procedures	female forty six emergency married white catholic
+chest pain ett cath coronary bypass w cardiac cath or percutaneous cardiac procedure	male sixty four emergency married white jewish
+coronary artery disease sarcoidosis coronary artery bypass graft lymph node biopsy location p m will cb sda coronary bypass without cardiac catheter	female fifty six elective single white jewish
+aortic stenosis aortic valve replacement redo sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions	female seventy seven elective life partner white not specified
+cerebral aneurysm sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc	female fifty six elective divorced black cape verdean catholic
+coronary artery disease coronary bypass with cardiac catheter	male sixty four emergency married asian not specified
+partial small bowel obstruction major small large bowel procedures with complications comorbidities	male eighty three emergency widowed white not specified
+pneumonia respiratory system diagnosis with ventilator support	male seventy seven emergency married black african american protestant quaker
+hyperkalemia septicemia disseminated infections	male sixty nine emergency widowed white catholic
+pneumonia other pneumonia	female sixty six emergency divorced black african american protestant quaker
+subarachnoid hemorrhage intracranial vascular procedures w pdx hemorrhage with major comorbid conditions	female fifty emergency single black african american not specified
+congestive heart failure circulatory disorders except acute myocardial infarction with cardiac catheter without complex diagnoses	male seventy five emergency single white catholic
+intracranial hemorrhage trach w mv hrs or pdx exc face mouth neck w o maj o r 	female eighty three emergency married white catholic
+mr mitral valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	male sixty six elective unknown default  unknown not specified unobtainable
+left pleural effusion heart failure shock with comorbid conditions and without major comorbid conditions	female eighty eight emergency single white jewish
+copd exacerbation pulmonary edema respiratory failure	male seventy five emergency married black african american protestant quaker
+aortic stenosis stent cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male seventy three emergency married unknown not specified unobtainable
+coronary artery disease cath percutaneous cardiovascular procedure with non drug eluting stent without mcv diagnosis	female sixty three emergency married white protestant quaker
+coronary artery disease cath with brachy s b major cardiovascular procedures with complications comorbidities	female fifty four elective married white jewish
+atrial flutter s p pulmonary vein isolation pulmonary vein isolation remote west sda perc cardiovasc proc w o coronary artery stent with comorbid conditions or non comorbid conditions and without major cc	male sixty emergency widowed white protestant quaker
+altered mental status other pneumonia	male forty nine emergency single white catholic
+gastrointestinal bleed major cardiovascular procedures with complications comorbidities	male fifty five emergency married white jewish
+upper gi bleed other unspecified gastrointestinal hemorrhage	male forty six emergency single white catholic
+gastrointestinal bleed gastrointestinal hemorrhage with complications comorbidities	female seventy two emergency married black african american protestant quaker
+small bowel obstruction major small large bowel procedures with major comorbid conditions	male eighty four emergency widowed white catholic
+cardiac arrest cardiac arrest	male seventy six emergency married white catholic
+sepsis septicemia age 	male sixty seven emergency married white catholic
+epidural hematoma craniotomy endovascular intracranial procedures with major comorbid conditions	female eighty emergency widowed white catholic
+c spine fracture ecmo or tracheostomy with mechanical ventilation hours or principal diagnoses except face mouth and neck diagnoses with major operating room procedure	male twenty eight emergency single white unobtainable
+overdose poisoning toxic effects of drugs age with complications comorbidities	female forty emergency single white not specified
+hypoglycemia malfunction reaction comp of orthopedic device or procedure	male seventy emergency married white catholic
+lower gastrointestinal bleed other digestive system diagnoses age with complications comorbidities	female three hundred and three emergency single white jewish
+sepsis septicemia age 	male sixty six emergency married patient declined to answer not specified
+non q wave myocardial infarction cardiac cath coronary bypass with cardiac catheterization with mcv diagnosis	male seventy emergency widowed white catholic
+subarachnoid hemorrhage head trauma w coma hr or hemorrhage	male fifty four emergency married white not specified
+cerebrovascular accident trach w mv hrs or pdx exc face mouth neck w o maj o r 	male seventy seven emergency married white catholic
+respiratory distress respiratory infections inflammations with major comorbid conditions	male eighty five emergency married asian other
+upper gi bleed peptic ulcer gastritis	male forty one emergency divorced white episcopalian
+seizure post operative post traumatic other device infections	female thirty six emergency separated white catholic
+pneumonia respiratory system diagnosis w ventilator support hours	female eighty emergency married white jewish
+upper gi bleed other unspecified gastrointestinal hemorrhage	female fifty three emergency single black cape verdean catholic
+copd flare respiratory system diagnosis with ventilator support	female sixty three emergency widowed white jewish
+brain metastesis craniotomy age with complications comorbidities	male forty eight emergency married white catholic
+sepsis septicemia disseminated infections	male twenty seven emergency single white not specified
+coronary artery disease dm coronary bypass without cardiac catheter	male seventy two emergency married unknown not specified catholic
+myocardial infarction cath major cardiovascular procedures with complications comorbidities	male eighty eight emergency widowed unknown not specified other
+peripheral vascular disease other vascular procedures with complications cormorbidities	female seventy eight elective widowed white unobtainable
+syncope vtach septicemia age 	female three hundred emergency widowed white romanian east orth
+chest pain shortness of breath septicemia age 	female seventy three emergency married white not specified
+stroke telemetry telemetry cva precerebral occulusion w infarct	male sixty eight emergency divorced unable to obtain not specified
+gastrointestinal bleed  g i hemorrhage with major comorbid conditions	male seventy three emergency married white not specified
+s p mva with injuries other multiple significant trauma	female forty four emergency single white catholic
+gastrointestinal bleed peptic ulcer gastritis	female sixty six emergency single white unobtainable
+stemi cardiac cath percutaneous cardiovascular procedures w ami	male sixty nine emergency married white catholic
+shortness of breath renal failure	male seventy seven emergency single black african american episcopalian
+hyponatremia hypokalemia diabetic ketoacidosis septicemia age 	male fifty five emergency divorced asian not specified
+myocardial infarction cath major cardiovascular procedures with complications comorbidities	female eighty four emergency widowed white jehovah s witness
+sepsis septicemia disseminated infections	male forty two emergency single white catholic
+chf exacerbation chronic obstructive pulmonary disease with major comorbid conditions	male forty five emergency single black african american other
+coronary artery disease coronary artery bypass graft re do sda coronary bypass without cardiac catheter	male fifty six elective married white catholic
+lower gi bleed other unspecified gastrointestinal hemorrhage	female sixty eight emergency single white catholic
+sepsis other circulatory system diagnoses with complications comorbidities	male sixty two emergency single white jewish
+aortic stenosis coronary artery bypass graft with avr sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions	male seventy eight elective married white catholic
+acute renal failure renal failure with comorbid conditions and without major comorbid conditions	male twenty nine emergency married black african american not specified
+anastomatic leak respiratory system diagnosis with ventilator support	female forty nine emergency married white catholic
+perirenal bleed hematoma other kidney urinary tract diagnoses with major comorbid conditions	male fifty one emergency single white catholic
+decreased blood flow to the left leg other vascular procedures with noncomorbid conditions and without comorbid conditions or major cc	male sixty one emergency separated black african american protestant quaker
+coronary artery disease cardiac valve other major cardiothoracic proc without cardiac catheter	female eighty three emergency widowed white protestant quaker
+neutropenia liver transplant with major comorbid conditions or intestinal transplant	female sixty seven emergency married white not specified
+altered mental status simple pneumonia pleurisy with major comorbid conditions	male eighty two emergency single white jewish
+aortic valve insufficiency aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male seventy two elective divorced white protestant quaker
+diabetic ketoacidosis diabetes age 	male thirty four emergency single black african american catholic
+aaa cad bentall procedure coronary artery bypass graft sda cardiac valve other major cardiothoracic proc without cardiac catheter	female seventy four elective married white catholic
+st elevation mi major cardiovascular procedures with complications comorbidities	male sixty one emergency married white catholic
+hypoglycemia diabetes	male fifty five emergency single black african american not specified
+chest pain cardiac cath coronary bypass w cardiac cath with major comorbid conditions	male seventy emergency married white catholic
+subarachnoid hemorrhage intracranial hemorrhage	female thirty seven emergency single white not specified
+chest pain cath coronary bypass with cardiac catheter	male sixty six emergency single white other
+urinary retention septicemia disseminated infections	male seventy six emergency single white jewish
+aortic valve stenosis aortic valve ascending aorta replacement sda cardiac valve procedures w o cardiac catheterization	male fifty four elective married white catholic
+hypoxia heart failure shock	male eighty seven emergency single white catholic
+unstable angina cardiac cath percutaneous cardiovascular procedures w o ami	male sixty emergency married white catholic
+motor vehicle accident with unspecified injuries trach w mv hrs or pdx exc face mouth neck w o maj o r 	male thirty two emergency married white other
+subarachnoid hemorrhage head injury traumatic stupor coma coma hr age without complications comorbidities	male sixty one emergency married white not specified
+small bowel leak bladder cancer major small large bowel procedures with complications comorbidities	male sixty three emergency married patient declined to answer catholic
+anaphylaxis poisoning of medicinal agents	female twenty emergency married black african american not specified
+unstable angina coronary bypass with cardiac catheter	male sixty five urgent single white catholic
+vf arrest percutaneous cardiovascular procedures w ami	male forty seven emergency married unable to obtain catholic
+dyspnea circulatory disorders except ami w card cath with comorbid conditions or non comorbid conditions and without major cc	male sixty four emergency married black african american protestant quaker
+coronary artery disease coronary artery bypass graft with avr mvr sda cardiac valve procedures w o cardiac catheterization	female eighty four elective widowed white protestant quaker
+brain tumor sda craniotomy age with complications comorbidities	male twenty eight elective married white not specified
+weakness esophagitis gastroenteritis miscellaneous digestive disorders age with complications comorbidities	male seventy emergency married hispanic or latino catholic
+pneumonia pulmonary edema respiratory failure	female eighty one emergency married white unitarian universalist
+altered mental status pulmonary edema respiratory failure	female fifty eight emergency single white greek orthodox
+sepsis other skin subcutaneous tissue breast disorders	female fifty seven emergency single hispanic or latino catholic
+pneumonia respiratory system diagnosis with ventilator support	male eighty three emergency widowed white jewish
+chest pain ste mi circulatory disorders except acute myocardial infarction with cardiac catheter complex diagnoses	female forty two emergency single unknown not specified protestant quaker
+coronary artery disease coronary artery bypass graft off pump coronary artery bypass graft sda coronary bypass without cardiac catheter	male sixty nine elective married unknown not specified catholic
+hypernatremia mental status change nutritional miscellaneous metabolic disorders age with complications comorbidities	female eighty emergency widowed white jewish
+c burst fracture spinal disorders injuries	male twenty three emergency single asian filipino catholic
+coronary artery disease coronary artery bypass graft withradial artery off pump coronary artery bypass with radial artery left sda coronary bypass without cardiac catheter	male fifty six elective married white catholic
+carotid stenosis sda nonspecific cerebrovascular and precerebral occlusion without infarction	female sixty three elective married white catholic
+subarachnoid hemorrhage extracranial vascular procedures	male thirty six emergency married white unobtainable
+renal hematoma mvc other o r procedures for multiple significant trauma with comorbid conditions and without major comorbid conditions	male sixty four emergency married white protestant quaker
+lower gi bleed other digestive system o r procedures with comorbid conditions and without major comorbid conditions	female seventy emergency widowed black african american protestant quaker
+chest pain circulatory disorders with acute myocardial infarction major complication discharged alive	female seventy seven urgent married white jewish
+overdose poisoning toxic effects of drugs age with complications comorbidities	female fifty two emergency widowed white unobtainable
+sepsis septicemia disseminated infections	female seventy eight emergency married white protestant quaker
+stroke telemetry transient ischemic attack intracranial hemorrhage or cerebral infarction with major comorbid conditions	female forty seven emergency single white protestant quaker
+sepsis septicemia w mechanical ventilator hours age 	male eighty seven emergency married white protestant quaker
+bracheal occulison malfunction reaction comp of cardiac or vasc device or proc	male eighty one emergency married white protestant quaker
+leukemia fever neutropenia major hematologic immunologic diag exc sickle cell crisis coagul	female fifty two emergency married white jewish
+acute coronary syndrome coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc	female fifty one emergency divorced white catholic
+lower gi bleed extensive o r procedure unrelated to principal diagnosis with comorbid conditions and without major comorbid conditions	male sixty emergency married white protestant quaker
+ischemic foot extracranial vascular procedures with cc	male forty four elective divorced white catholic
+upper gi bleed other unspecified gastrointestinal hemorrhage	male seventy six emergency married white catholic
+seziure seizures with comorbid conditions or non comorbid conditions and without major cc	female thirty seven emergency married asian chinese not specified
+pvd left heart catheterization other vascular procedures with complications cormorbidities	male forty one emergency single white protestant quaker
+sepsis respitory failure respiratory system diagnosis w ventilator support hours	male thirty nine emergency married white jewish
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty three emergency married white catholic
+asthma congestive heart failure respiratory system diagnosis with ventilator support	male fifty four emergency unknown default  unknown not specified catholic
+right upper quadrant pain septicemia disseminated infections	male seventy four emergency married white episcopalian
+acute renal failure sepsis septicemia disseminated infections	female fifty four emergency married white catholic
+sepsis malfunction reaction complic of genitourinary device or proc	male fifty eight emergency married white unobtainable
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with major comorbid conditions	female sixty five elective single white catholic
+sepsis septicemia age 	female seventy eight emergency widowed white jewish
+small bowel obstruction fistula major small large bowel procedures with complications comorbidities	female eighty one emergency widowed unknown not specified catholic
+intracranial hemorrhage intracranial hemorrhage	female sixty six emergency widowed hispanic latino puerto rican catholic
+liver failure liver transplant	male fifty one emergency single white not specified
+pneumonia other pneumonia	male sixty four emergency married hispanic latino puerto rican catholic
+trauma multiple significant trauma w o o r procedure	male thirty two emergency single white protestant quaker
+mitral valve disease cardiac valve other major cardiothoracic proc without cardiac catheter	female seventy emergency married white catholic
+cerebrovascular accident acute ischemic stroke with use of thrombolytic agent	female eighty emergency widowed white not specified
+superior vena cava syndrome other circulatory system diagnoses with complications comorbidities	female twenty three emergency single white catholic
+stroke telemetry transient ischemic attack intracranial hemorrhage or cerebral infarction with major comorbid conditions	female twenty three emergency single white not specified
+upper gastrointestinal bleed esophageal bleed peptic ulcer gastritis	male forty nine emergency single white not specified
+bright red blood per rectum hct brief hypotension other anemia disorders of blood blood forming organs	male seventy six emergency single black african american episcopalian
+altered mental status other infectious parasitic diseases	male seventy seven emergency married white catholic
+pneumonia respiratory system diagnosis w ventilator support hours	female thirty seven emergency separated black african american not specified
+upper gi bleed other unspecified gastrointestinal hemorrhage	male forty two emergency divorced white episcopalian
+cardiac arrest pulmonary edema respiratory failure	female sixty five emergency married white catholic
+endocarditis sepsis other circulatory system diagnoses with major comorbid conditions	male sixty emergency married white catholic
+st elevated myocardial infarction perc cardiovasc proc w drug eluting stent with major comorbid conditions or vessels stents	male sixty six emergency married white catholic
+pseudo aneurysm sda craniotomy age without complications comorbidities	male thirty two elective single unknown not specified unobtainable
+myocardial infarction percutaneous cardiovascular procedures w ami	female seventy eight emergency widowed white catholic
+overdose alcohol drug abuse or dependence with complications and comorbidities	male twenty five emergency single white not specified
+cerebral aneurysm sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc	female thirty eight elective divorced white catholic
+left frontal mass bleed craniotomy except for trauma	male forty five emergency married white unobtainable
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male seventy three elective married white not specified
+pulmonary edema coronary bypass without cardiac catheter	male seventy five emergency married unknown not specified catholic
+mr coronary artery bypass graft mitral valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	male sixty six elective married white unobtainable
+congestive heart failure cardiac catheterization w circ disord exc ischemic heart disease	female eighty three emergency married white protestant quaker
+dra sah traumatic stupor coma coma hr age with complications comorbidities	male eighty one emergency single other other
+acute respiratory distress syndrome septicemia age 	male fifty six urgent married white not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheterization without mcv diagnosis	female seventy three elective single white not specified
+aortic dissection other musculoskeletal system connective tissue diagnoses	male sixty seven emergency single white catholic
+hypotension disseminated zoster viral meningitis	male three hundred emergency widowed asian other
+cerebellum mass ataxia craniotomy age with complications comorbidities	female seventy four emergency widowed white catholic
+carotid stenosis left carotid angiogram cardiac valve other major cardiothoracic proc without cardiac catheter	female seventy two emergency married hispanic or latino catholic
+upper gi bleed other unspecified gastrointestinal hemorrhage	male seventy one emergency widowed black african american not specified
+intracranial bleed traumatic stupor coma coma hr age with complications comorbidities	female eighty two emergency widowed white episcopalian
+congestive heart failure cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male forty four urgent married unknown not specified unobtainable
+pneumonia septicemia disseminated infections	female seventy eight emergency widowed white unobtainable
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	female eighty four emergency widowed white catholic
+sub arachnoid hemorrhage inter cranial bleed traumatic stupor coma coma hr age with complications comorbidities	male seventy two emergency widowed unknown not specified unobtainable
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty three elective divorced white catholic
+respiratory failure respiratory system diagnosis w ventilator support hours	male seventy three emergency married white catholic
+altered mental status septicemia disseminated infections	male eighty five emergency married white jewish
+coronary artery disease complete heart cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male seventy seven emergency married white catholic
+brain mass craniotomy endovascular intracranial procedures with comorbid conditions and without major comorbid conditions	male eighty emergency widowed white episcopalian
+stemi percutaneous cardiovascular procedures w ami	male fifty one emergency married white not specified
+chf hyponatremia heart failure shock	male fifty emergency married white catholic
+unstable angina cath perc cardiovasc proc w non drug eluting stent with comorbid conditions or non comorbid conditions and without major cc	male seventy eight emergency married white other
+coronary artery disease coronary artery bypass graft with avr sda cardiac valve procedures w o cardiac catheterization	male fifty eight elective married white catholic
+coronary artery disease coronary artery bypass graft with avr sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions	male sixty seven elective married white catholic
+severe hypertrophic cardiomyopathy right and left heart cath percutaneous cardiovascular procedures without acute myocardial infarction without coronary artery stent implant	male eighty one emergency married unknown not specified other
+s p non q mi cath cardiac valve other major cardiothoracic procedures with cardiac catheter	male eighty two urgent married unknown not specified catholic
+abdominal pain disorders of pancreas except malignancy with major comorbid conditions	female forty eight emergency separated black african american protestant quaker
+lrg pain major cardiovasc procedures with major comorbid conditions	female seventy seven emergency widowed black african american protestant quaker
+subacute stroke extensive operating room procedure unrelated to principal diagnosis	male three hundred emergency married white jewish
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	female forty one elective widowed white catholic
+pneumonia respiratory system diagnosis with ventilator support hrs	female seventy eight emergency married hispanic or latino catholic
+fever septicemia disseminated infections	male seventy eight emergency single white not specified
+lower gi bleed g i hemorrhage with comorbid conditions and without major comorbid conditions	male fifty nine emergency married white jewish
+cholangitis septicemia disseminated infections	male eighty seven emergency married white other
+coronary artery disease circulatory disorders with acute myocardial infarction major complication discharged alive	male eighty six emergency married unknown not specified unobtainable
+bowel ischemia ecmo or trach w mv hrs or pdx exc face mouth neck w maj o r 	female seventy five emergency single white other
+st segment elevation myocardial infarction cardiac cath percutaneous cardiovascular procedures w ami	female three hundred emergency widowed white catholic
+aorltic stenosis aortic valve replacement tracheostomy w long term mechanical ventilation w extensive procedure	male eighty five elective married white catholic
+myocardial infarction acute myocardial infarction	female eighty emergency widowed white protestant quaker
+carotid stenosis sda transient ischemic attack precerebral occlusions	male three hundred elective widowed white unobtainable
+pneumonia septicemia disseminated infections	male eighty eight emergency single white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	female sixty four elective divorced other catholic
+acute respiratory failure pulmonary edema respiratory failure	male eighty seven emergency married unknown not specified protestant quaker
+altered mental status septicemia or severe sepsis w o mv hours with major comorbid conditions	female three hundred emergency single white jewish
+pneumonia telemetry respiratory infections inflammations age with complications comorbidities	male seventy five emergency divorced black african american unobtainable
+hypercarbic respiratory failure pulseless electrical tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses without major operating room procedure	male sixty eight emergency married black african american protestant quaker
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with major comorbid conditions	male forty five elective married multi race ethnicity catholic
+shortness of breath respiratory system diagnosis with ventilator support	female eighty three emergency widowed white jewish
+subdural hematoma craniotomy for trauma age 	female seventy urgent married white catholic
+sepsis other unspecified gastrointestinal hemorrhage	male seventy six emergency married white jewish
+chest pain rule out coronary artery disease aspirin allergy left heart catheterization circulatory disorders except ami w card cath with comorbid conditions or non comorbid conditions and without major cc	male sixty three urgent married white not specified
+carotid stenosis carotid angiogtam and stent extracranial vascular procedures without cc	male fifty nine elective single white other
+head mass seizures intracranial hemorrhage or cerebral infarction	female eighty eight emergency single white protestant quaker
+angioedema allergic reactions	female seventy six emergency separated black african american protestant quaker
+ head mass cva precerebral occulusion w infarct	female forty eight emergency married white other
+liver failure liver transplant	male fifty two urgent married white catholic
+fever kidney urinary tract infections	female sixty six emergency single white protestant quaker
+arterial venous malformation intracranial hemorrhage stroke w infarction	female forty six emergency married white other
+ventricular tachycardia percutaneous cardiovascular procedures without acute myocardial infarction without coronary artery stent implant	male three hundred emergency widowed white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty four elective single white protestant quaker
+heparin infusin s p ivc filter placement other vascular procedures with major comorbid conditions	male seventy eight emergency married white catholic
+sepsis septicemia disseminated infections	female eighty emergency widowed white not specified
+congestive heart failure renal failure respiratory system diagnosis with ventilator support hrs	female forty five emergency married white catholic
+peripheral vascular disease ischemic left foot other vascular procedures	male sixty four emergency married black african american protestant quaker
+coronary artery disease coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male seventy three emergency married white protestant quaker
+pneumonia septicemia or severe sepsis w o mv hours with major comorbid conditions	male seventy one emergency divorced black african american protestant quaker
+anemia telemetry other unspecified gastrointestinal hemorrhage	male seventy seven emergency married white catholic
+hemoptysis respiratory system signs symptoms other diagnoses	male forty two urgent single white not specified
+recurrent atrial fibrillation pulmonary vein isolation remote west sda extensive o r procedure unrelated to principal diagnosis with major comorbid conditions	female seventy five elective married white catholic
+cerebral aneurysm sda craniotomy endovascular intracranial procedures with noncomorbid conditions and without comorbid conditions or major cc	female thirty eight elective married white not specified
+stroke telemetry ich cva precerebral occulusion w infarct	male seventy six emergency widowed white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty five elective married unknown not specified catholic
+acute leukemia acute leukemia without major operating room procedure age 	female sixty five emergency married white not specified
+mitral stenosis mitral valve vs replacement cardiac valve oth maj cardiothoracic proc w o card cath with major comorbid conditions	female seventy five elective widowed white catholic
+congestive heart failure circulatory disorders with acute myocardial infarction expired	female seventy one emergency married unknown not specified unobtainable
+altered mental status nontraumatic stupor coma	female fifty three emergency married white catholic
+hepatic encep hepatic coma other major acute liver disorders	male forty four emergency married american indian alaska native federally recognized tribe muslim
+seizures seizure	male sixty four emergency married unable to obtain unobtainable
+gangene right leg other vascular procedures with complications cormorbidities	male eighty elective widowed white catholic
+c diff colitis septicemia disseminated infections	female eighty five emergency married white protestant quaker
+upper gi bleed other unspecified gastrointestinal hemorrhage	female fifty four emergency single black african american protestant quaker
+congestive heart failure atrial fibrillation major cardiovasc procedures with major comorbid conditions	female eighty four emergency widowed white protestant quaker
+drainage of burrhole other operating room procedures for injuries with complications comorbidities	male seventy one urgent married asian other
+esophageal foreign body other digestive system diagnoses with noncomorbid conditions and without comorbid conditions or major cc	female fifty seven emergency married white catholic
+aortic stenosis aortic and mitral valve replacement cardiac valve procedures w cardiac catheterization	female sixty five elective single black african american protestant quaker
+coronary artery disease cath cabg coronary bypass with cardiac catheter	male fifty four emergency married white catholic
+subarachnoid hemorrhage telemetry intra cranial vascular procedure with principal diagnosis of hemorrhage	female thirty five emergency single white not specified
+chest pain cardiac cath coronary bypass w cardiac cath or percutaneous cardiac procedure	female fifty eight emergency married unable to obtain catholic
+gastrointestinal bleed tracheostomy w long term mechanical ventilation w o extensive procedure	male sixty five emergency single black african american catholic
+acute coronary syndrome tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses	male seventy six emergency married white catholic
+coronary artery disease coronary bypass without cardiac catheter	female seventy nine emergency widowed white catholic
+chronic obst pulm disease chronic obstructive pulmonary disease	female fifty nine emergency divorced white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty three elective single white catholic
+abdominal pain atrial fibrillation congestive heart failure major small large bowel procedures with complications comorbidities	female eighty nine emergency widowed white jewish
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath or percutaneous cardiac procedure	male sixty three elective married white episcopalian
+coronary artery disease tracheostomy w long term mechanical ventilation w extensive procedure	male eighty four emergency married unknown not specified catholic
+stroke telemetry transient ischemic attack cva precerebral occulusion w infarct	male fifty six emergency married white not specified
+congestive heart failure respiratory failure pulmonary edema respiratory failure	female seventy nine emergency widowed white catholic
+aortic stenosis coronary artery bypass graft with avr sda cardiac valve oth maj cardiothoracic proc w o card cath with comorbid conditions and without major comorbid conditions	male eighty one elective married white other
+shortness of breath simple pneumonia pleurisy with major comorbid conditions	female fifty four emergency single black african american catholic
+aortic stenosis mitral regurgitation aortic and mitral valve replacement tricuspid valve replacement sda cardiac valve procedures w o cardiac catheterization	female eighty seven elective widowed white protestant quaker
+pneumonia other pneumonia	male three hundred emergency widowed black african american protestant quaker
+head mass major gastrointestinal peritoneal infections	male twenty one emergency single hispanic or latino other
+aortic stenosis aortic valve replacement sda cardiac valve other major cardiothoracic proc without cardiac catheter	female fifty eight elective married white catholic
+s p cardiac arrest cath cardiac defibrillator implant with cardiac catheterization	female seventy urgent widowed unknown not specified catholic
+urinary tract infection pyelonephritis kidney urinary tract infections age without complications comorbidities	female seventy one emergency married white jehovah s witness
+chest pain telemetry pulmonary embolism	female fifty seven emergency divorced white catholic
+mitral stenosis other circulatory system diagnoses with major comorbid conditions	female sixty seven emergency married white catholic
+stroke telemetry transient ischemic attack intracranial hemorrhage	male three hundred and seven emergency widowed white jewish
+gastrointestinal bleed telemetry major small large bowel procedures with comorbid conditions and without major comorbid conditions w major gi dx	male sixty six emergency single white not specified
+dehydration malnutrition tracheostomy with mechanical ventilation hours or principal diagnosis except face mouth and neck diagnoses	male sixty seven emergency divorced white catholic
+stemi percutaneous cardiovascular procedures w ami	male seventy five emergency single white christian scientist
+pneumonia respiratory system diagnosis w ventilator support hours	male seventy seven emergency married other not specified
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male eighty emergency widowed white catholic
+aortic valve disorder aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male fifty nine elective divorced asian chinese other
+lower gastrointestinal bleed major small large bowel procedures with complications comorbidities	female eighty emergency divorced black african american episcopalian
+fever etiology unknown septicemia age 	female fifty four emergency married white not specified
+unstable angina cath coronary bypass with cardiac catheter	female forty nine emergency single unknown not specified protestant quaker
+sepsis septicemia or severe sepsis w o mv hours with major comorbid conditions	female three hundred emergency married white jewish
+massive pulmonary embolus pulmonary embolism	female thirty two emergency single black african american catholic
+coronary artery disease cath coronary bypass with cardiac catheter	male seventy seven elective married unknown not specified unobtainable
+pna rf disorders of pancreas except malignancy	female eighty two emergency married white jewish
+claudication sda other vascular procedures with complications cormorbidities	male fifty six elective married white catholic
+hypoxia hypotension perc cardiovasc proc w non drug eluting stent with major comorbid conditions or ves stents	female fifty five emergency married white catholic
+urosepsis septicemia disseminated infections	male seventy eight emergency married asian unobtainable
+end stage liver disease liver transplant and or intenstinal transplant	male fifty one emergency divorced black african american not specified
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	male sixty five emergency married black african american not specified
+hyponatremia pna cardiac catheterization w circ disord exc ischemic heart disease	male eighty emergency single white catholic
+sepsis respiratory distres other digestive system operating room procedures with complications comorbidities	male fifty seven emergency married white not specified
+upper gi bleed peptic ulcer gastritis	male seventy eight emergency married white catholic
+subdural hematoma craniotomy endovascular intracranial procedures with major comorbid conditions	male eighty one emergency single white not specified
+liver transplant liver transplant	male fifty urgent married hispanic latino puerto rican catholic
+hip fracture musculoskeletal other procedures for multiple significant trauma	male forty three emergency single other not specified
+coronary artery disease exertional angina left heart catheterization coronary bypass w cardiac cath with comorbid conditions or non comorbid conditions and without major cc	male sixty one emergency married white not specified
+rule out tia transient ischemia	male thirty eight emergency married white not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	female seventy four elective widowed white catholic
+aortic stenosis aortic valve replacement cardiac valve procedures w o cardiac catheterization	male fifty eight elective married hispanic or latino catholic
+reactive airway disease respiratory system diagnosis with ventilator support	female twenty nine emergency single black african american protestant quaker
+etoh withdrawal tracheostomy w long term mechanical ventilation w o extensive procedure	male fifty nine emergency single white protestant quaker
+aortic valve insufficiency aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male fifty elective single white not specified
+sepsis septicemia age 	male eighty three emergency widowed white catholic
+non small cell lung cancer respiratory system diagnosis with ventilator support hrs	female forty two emergency divorced white unobtainable
+aortic stenosis aortic valve replacement sda cardiac valve procedures w o cardiac catheterization	male sixty five elective married white catholic
+ ett cath coronary bypass with cardiac catheter	female sixty seven emergency widowed unknown not specified catholic
+coronary artery disease aortic insufficiency coronary artery bypass graft with avr ascending aorta replacement sda cardiac valve procedures w o cardiac catheterization	male seventy two elective married white catholic
+left frontal bleed craniotomy age with complications comorbidities	male sixty nine emergency divorced white jewish
+coronary artery disease coronary artery bypass graft sda coronary bypass w o cardiac cath with comorbid conditions or non comorbid conditions and without major cc	female seventy five elective widowed white catholic
+sepsis endocrine disorders with major comorbid conditions	male seventy three emergency married black african american episcopalian
+fever mantle cell lymphoma respiratory system diagnosis w ventilator support hours	male fifty six emergency divorced white catholic
+sepsis bronchitis asthma age with complications comorbidities	female fifty four emergency single white catholic
+shortness of breath chronic obst pulm disease chf exacerbation respiratory system diagnosis with ventilator support	male seventy five emergency married white catholic
+coronary artery disease cath circulatory disorders except acute myocardial infarction with cardiac catheter without complex diagnoses	male fifty eight elective married white catholic
+hypotension septicemia disseminated infections	male seventy emergency married black african american unobtainable
+abdominal pain hypotension hypovolemia related electrolyte disorders	female forty emergency single black african american protestant quaker
+lower gi bleed other digestive system diagnoses	female seventy six emergency widowed black african american catholic
+congestive heart failure aortic stenosis corevalve aortic valve replacement cardiac valve procedures w cardiac catheterization	female seventy seven elective married white catholic
+hypokalemia diarrhea hiv with or without other related condition	male fifty five emergency single white catholic
+acute liver failure poisoning toxic effects of drugs with major comorbid conditions	male thirty emergency single white unobtainable
+altered mental status acute renal failure renal failure	male thirty nine emergency married white catholic
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	male fifty three emergency married white catholic
+chronic wound right abdominal wall major small large bowel procedures	male sixty six emergency married white catholic
+respiratory distress major respiratory infections inflammations	female eighty four emergency widowed white not specified
+coronary artery disease coronary bypass w o cardiac cath or percutaneous cardiac procedure	female eighty three urgent widowed white catholic
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	female seventy emergency married white jewish
+tracheostomy tracheostomy except for face mouth neck diagnoses	female forty seven emergency single white protestant quaker
+lower gastrointestinal bleed anemia gastrointestinal hemorrhage with complications comorbidities	female seventy one emergency single black african american greek orthodox
+fever hyper k afib rvr other vascular procedures with complications cormorbidities	male seventy nine emergency married white catholic
+acute pulmonary embolism pulmonary embolism	male fifty four emergency married white not specified
+chest pain percutaneous cardiovascular procedures w o ami	male eighty emergency married white catholic
+acute coronary syndrome cardiac catheterization w circ disord exc ischemic heart disease	female seventy emergency married unable to obtain catholic
+mitral stenosis pulmonary hypertension cardiac congenital valvular disorders	female seventy five emergency divorced unable to obtain protestant quaker
+hypotension major small large bowel procedures with complications comorbidities	female forty six emergency married white other
+abdominal fistula major small large bowel procedures with complications comorbidities	male sixty elective married other not specified
+brain aneurysm sda extracranial vascular procedures	female sixty elective married white catholic
+hypoxia congestive heart failure septicemia disseminated infections	male seventy eight emergency married white not specified
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male sixty one elective single white not specified
+coronary artery disease cardiac ischemia cardiac cath percutaneous cardiovascular procedures w o ami	female seventy emergency married white protestant quaker
+diabetic ketoacidosis diabetes	female fifty five emergency divorced black african american protestant quaker
+vomiting pyelo gastrointestinal obstruction with complications comorbidities	male sixty four emergency single white catholic
+liver failure liver transplant	female forty six emergency married white catholic
+lower gi bleed renal failure	male fifty three emergency single white other
+cardiac arrest cardiac arrhythmia conduction disorders with major comorbid conditions	male forty seven emergency single white not specified
+respiratory failure septicemia age 	male fifty nine emergency single white catholic
+congestive heart failure heart failure	female fifty nine emergency single hispanic or latino not specified
+found down poisoning toxic effects of drugs with major comorbid conditions	male forty five emergency single white catholic
+fever septicemia age 	male seventy five emergency married white protestant quaker
+st segment myocardial infarction cath percutaneous cardiovascular procedures w ami	male eighty one emergency married white catholic
+hypernatremia renal failure	male twenty five emergency single white episcopalian
+s p v fib arrest coronary bypass with cardiac catheter	female sixty five emergency divorced white unobtainable
+subdural hematoma craniotomy for trauma	male forty nine emergency widowed white catholic
+altered mental status changes poisoning toxic effects of drugs age with complications comorbidities	female thirty one emergency single white not specified
+myocardial infarction cath circulatory disorders with acute myocardial infarction major complication discharged alive	female seventy five emergency widowed white protestant quaker
+acute subdural hematoma craniotomy except for trauma	female seventy one emergency widowed white catholic
+coronary artery disease coronary artery bypass graft sda coronary bypass without cardiac catheter	male forty seven elective married white catholic
+sepsis telemetry septicemia age 	male sixty nine emergency single white other
+hyperglycemia diabetes with major comorbid conditions	male forty eight emergency married white not specified
+tachycardia heart failure	male eighty five emergency single black african american protestant quaker
+hypotension unresponsive respiratory system diagnosis w ventilator support hours	female fifty three emergency single white protestant quaker
+urosepsis pulmonary edema respiratory failure	female eighty one emergency married black african american other
+sepsis viral illness	female twenty nine emergency single black african american not specified
+intracranial hemorrhage tracheostomy w long term mechanical ventilation w o extensive procedure	male fifty nine emergency single white not specified
+esophageal foreign body other complications of treatment	female sixty five emergency single white catholic
+chest pain coronary bypass w cardiac cath or percutaneous cardiac procedure	male fifty one emergency married white not specified
+intracranial hemorrhage craniotomy age with complications comorbidities	female fifty five emergency single white not specified
+upper gi bleed other digestive system diagnoses	female eighty nine emergency widowed white jewish
+obstructive hypertrophic cardiomyopathy ethanol septal ablation sda perc cardiovasc proc w o coronary artery stent with comorbid conditions or non comorbid conditions and without major cc	male forty five elective married white not specified
+lower gi bleed extensive procedure unrelated to principal diagnosis	male sixty nine emergency divorced white catholic
+fever etiology unknown malfunction reaction complic of genitourinary device or proc	male eighty six emergency married white jewish
+congestive heart failure heart failure shock	female thirty nine emergency single black african american not specified
+ascites liver and renal disease renal failure	female forty seven emergency single white episcopalian
+mitral valve abnormality mitral valve replacement heart port minimally invasive sda cardiac valve procedures w o cardiac catheterization	male forty three elective single white not specified
+non healing ulcer other vascular procedures	male seventy seven elective widowed white catholic
+s p cardiac arrest cardiac defibrillator implant with cardiac catheterization	male forty three emergency married other unobtainable
+nausea w vomiting hyperglycemia percutaneous cardiovascular procedures w ami	female forty eight emergency divorced white catholic
+fever other infectious parasitic diseases	female eighty three emergency single white unobtainable
+epilepsy full term neonate with major problems	male twenty one emergency single white jewish
+coronary artery disease cardiac valve procedures w o cardiac catheterization	male eighty one emergency single white jewish
+cellulitis operating room procedure for infectious parasitic diseases	female fifty three emergency married hispanic or latino catholic
+sepsis other circulatory system diagnoses	male seventy one emergency single white not specified
+gi bleed asperation sepsis respiratory system diagnosis with ventilator support	male seventy one emergency single white catholic
+chest pain percutaneous cardiovascular procedures w ami	male twenty eight emergency single black african american not specified
+chest pain coronary artery disease major cardiovascular procedures with complications comorbidities	male seventy emergency married unknown not specified unobtainable
