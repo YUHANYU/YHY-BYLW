@@ -71,6 +71,7 @@ def bm25_query_k_con_4_dia(train_dia, train_con, val_dia, val_con, infer_dia, in
     :param out_path:
     :return:
     """
+    start_time = time.time()
     train_dia_f = open(train_dia, 'r', encoding='utf-8').readlines()
     train_dia_f = [i.split('\t')[0] for i in train_dia_f]  # # 不使用病例信息，经过验证，加入会变差
     val_dia_f = open(val_dia, 'r', encoding='utf-8').readlines()
@@ -104,7 +105,7 @@ def bm25_query_k_con_4_dia(train_dia, train_con, val_dia, val_con, infer_dia, in
         corpus_dict[idx] = line
 
     # bm25_model = bm25.BM25(corpus)
-    bm25_model_w = get_bm25_weights(corpus, n_jobs=4)
+    bm25_model_w = get_bm25_weights(corpus, n_jobs=2)
     # bm25_model = BM25(corpus)
 
     result_log = open(output_path + 'result-log.txt', 'w', encoding='utf-8')
@@ -137,13 +138,13 @@ def bm25_query_k_con_4_dia(train_dia, train_con, val_dia, val_con, infer_dia, in
             if infer_con_f[idx] in candidate_txt:
                 y_pred[idx] = 1
 
-            acc = round(accuracy_score(y_true, y_pred), 3)
-
+        acc = round(accuracy_score(y_true, y_pred), 3)
         end_time = time.time()
         use_time = round(end_time - start_time, 3)
         each_time = round(use_time / len(infer_con_f), 3)
 
-        result_log.write('当k={}时，Cov值为{}，总消耗的时间为{}，每条消耗时间为{}。\n'.format(k, acc, use_time, each_time))
+        result_log.write('当k={}时，Cov值为{}，总消耗的时间为{}，每条消耗时间为{}。\n'.
+                         format(k, acc, use_time, each_time))
 
         print('当k={}时，Cov值为{}，总消耗的时间为{}，每条消耗时间为{}。'.format(k, acc, use_time, each_time))
 

@@ -9,7 +9,9 @@ from Levenshtein import distance
 import gensim
 from sklearn.neighbors import KDTree
 import numpy as np
-from R1.matching import MatchingModel
+import sys
+sys.path.append('.\\')
+from matching import MatchingModel
 from sklearn.metrics import accuracy_score
 import time
 
@@ -89,6 +91,7 @@ class RetrievalModel():
             if len(word) > 0 and word in self.bionlp.vocab:
                 cons_word_embedding.append(self.bionlp.wv[word])
                 idx_2_word[idx] = word
+        # print(idx_2_word)
 
         cons_word_kdtree = KDTree(np.mat(cons_word_embedding), metric='euclidean')
 
