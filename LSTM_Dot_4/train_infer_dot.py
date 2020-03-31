@@ -8,6 +8,9 @@ import torch
 import os
 import time
 from tqdm import tqdm
+# cudnn.benchmark = True
+torch.backends.cudnn.deterministic = False
+torch.backends.cudnn.enabled = True
 
 from train import train
 from language_loss_strategy import infer
@@ -49,27 +52,25 @@ class Config(object):
         self.emb_dim = 512
         self.dropout = 0.5
 
-        self.lr = 0.00001
+        self.lr = 0.00001  # batch_size=16,lr=0.00001
         self.grad_clip = 50.0
 
 
 if __name__ == '__main__':
     attn_model = 'dot'
-    data_set_k = [
-
-
-                 ['dp200', 65, attn_model]]
+    data_set_k = [['dd50', 25, attn_model],
+                  ['dd200', 60, attn_model],
+                  ['dp50', 30, attn_model],
+                  ['dp200', 65, attn_model]]
 
     for data_k in data_set_k:
         config = Config(data_k)
-        infer(config)
-        exit()
 
-        enc_checkpoint = config.out_path + 'enc_0.chkpt'
+        enc_checkpoint = config.out_path + 'enc.chkpt'
         if os.path.exists(enc_checkpoint):
             print('该路径文件下存在已有的模型保存文件，请检查是否需要重新训练！！！')
-            print('如无终止，30s后自动开始进入训练-推理！')
-            for _ in tqdm(range(30), desc='倒计时...'):
+            print('如无终止，10s后自动开始进入训练-推理！')
+            for _ in tqdm(range(10), desc='倒计时...'):
                 time.sleep(1)
             train(config)
             infer(config)

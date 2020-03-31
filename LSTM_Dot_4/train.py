@@ -8,11 +8,12 @@ import torch
 from torch.utils.data import DataLoader
 from torch import optim
 from torch import nn
+# from apex import amp
 
-from seq2seq.encoder import EncoderRNN
-from seq2seq.decoder import LuongAttnDecoderRNN
-from seq2seq.data_process import DataProcess
-from seq2seq.seq2seq import Seq2SeqModel
+from LSTM_Dot_4.seq2seq.encoder import EncoderRNN
+from LSTM_Dot_4.seq2seq.decoder import LuongAttnDecoderRNN
+from LSTM_Dot_4.seq2seq.data_process import DataProcess
+from LSTM_Dot_4.seq2seq.seq2seq import Seq2SeqModel
 
 
 def train(config):
@@ -50,10 +51,10 @@ def train(config):
             'tgt_max_len': data_obj.tgt_max_len}}  # 保存训练、验证的输入-目标序列的token数据
     torch.save(words_data, config.save_word)
 
-    train_data_loader = DataLoader(
-        src_tgt_seq_train, config.batch_size, True, drop_last=False)  # 打包训练批次数据
-    val_data_loader = DataLoader(
-        src_tgt_seq_val, config.batch_size, False, drop_last=False)  # 打包验证批次数据
+    train_data_loader = DataLoader(src_tgt_seq_train, config.batch_size, True, drop_last=False,
+                                   pin_memory=True)  # 打包训练批次数据
+    val_data_loader = DataLoader(src_tgt_seq_val, config.batch_size, False, drop_last=False,
+                                 pin_memory=True)  # 打包验证批次数据
 
     encoder = EncoderRNN(
         src_lang.n_words,

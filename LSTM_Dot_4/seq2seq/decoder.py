@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 import torch.functional as F
-from seq2seq.attention import Attn
+from LSTM_Dot_4.seq2seq.attention import Attn
 
 
 class BahdanauAttnDecoderRNN(nn.Module):

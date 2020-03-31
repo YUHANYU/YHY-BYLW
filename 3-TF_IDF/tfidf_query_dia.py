@@ -68,7 +68,8 @@ def dia_query_k_con(train_dia, train_con, val_dia, val_con, infer_dia, infer_con
     y_pred = [0 for _ in range(len(infer_con_f))]
     y_true = [1 for _ in range(len(infer_con_f))]
 
-    all_con_w_balltree = BallTree(all_con_w, metric='euclidean')  # 概念树
+    # all_con_w_balltree = BallTree(all_con_w, metric='euclidean')  # 概念树 欧式距离
+    all_con_w_balltree = BallTree(all_con_w, metric='cosine')  # 概念树，余弦相似度
 
     result_log = open(out_path + 'result-log.txt', 'w', encoding='utf-8')
     for k in k_set:

@@ -39,7 +39,7 @@ def use_doc2vec(train, val, infer, dim):
     document = list(set(document))
     document = [line.split(' ') for line in document]
     doc_idx = [TaggedDocument(doc, [idx]) for idx, doc in enumerate(document)]
-    doc2vec_model = Doc2Vec(doc_idx, vector_size=dim, window=3, min_count=1, workers=4, epochs=1000)
+    doc2vec_model = Doc2Vec(doc_idx, dm=0, vector_size=dim, window=1, min_count=1, workers=2, epochs=1000)
 
     infer_dia_vec = np.zeros((len(infer[0]), dim))
     for idx, dia in enumerate(infer[0]):

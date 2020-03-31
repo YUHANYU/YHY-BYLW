@@ -9,8 +9,8 @@ import os
 import time
 from tqdm import tqdm
 
-from train import train
-from language_loss_strategy import infer
+from LSTM_Dot_4.train import train
+from LSTM_Dot_4.language_loss_strategy import infer
 
 
 class Config(object):
@@ -33,7 +33,7 @@ class Config(object):
         self.infer_target = self.data_set + 'infer-con.txt'
 
         self.batch_size = 16
-        self.epoch = 2
+        self.epoch = 3
 
         self.save_word = self.out_path + 'word-dict.pt'
 
@@ -55,24 +55,19 @@ class Config(object):
 
 if __name__ == '__main__':
     attn_model = 'concat'
-    data_set_k =[
-
-                 ['dp50', 30, attn_model],
-                 ['dp200', 65, attn_model]]
-
-    dp200 = ['dp200', 65, attn_model]
-    config = Config(dp200)
-    infer(config)
-    exit()
+    data_set_k =[['dd50', 25, attn_model],
+                  ['dd200', 60, attn_model],
+                  ['dp50', 30, attn_model],
+                  ['dp200', 65, attn_model]]
 
     for data_k in data_set_k:
         config = Config(data_k)
 
-        enc_checkpoint = config.out_path + 'enc_0.chkpt'
+        enc_checkpoint = config.out_path + 'enc.chkpt'
         if os.path.exists(enc_checkpoint):
             print('该路径文件下存在已有的模型保存文件，请检查是否需要重新训练！！！')
-            print('如无终止，30s后自动开始进入训练-推理！')
-            for _ in tqdm(range(30), desc='倒计时...'):
+            print('如无终止，10s后自动开始进入训练-推理！')
+            for _ in tqdm(range(10), desc='倒计时...'):
                 time.sleep(1)
             train(config)
             infer(config)
